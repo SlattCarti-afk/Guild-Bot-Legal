@@ -3,48 +3,45 @@
 
 ---
 
-## 1. Agreement to Terms  
-By using **GUILD-BOT** (“the Bot”), you agree to follow these Terms of Service.  
-If you do not agree, please do not use the Bot.  
+## 1. Acceptance of Terms  
+By using **GUILD-BOT** (“the Bot”), you agree to these Terms of Service.  
+If you do not agree, you should not use the Bot.  
 
 ---
 
-## 2. Service Overview  
-**GUILD-BOT** is a free Discord bot that allows users to search and organize tags, server links, and related content.  
-The Bot is provided **“as is”** without any warranties or guarantees.  
+## 2. Description of Service  
+**GUILD-BOT** is a free Discord bot designed to help users manage and organize tags and server links.  
+The Bot is offered **“as is”**, with no guarantees or warranties of any kind.  
 
 ---
 
-## 3. User Obligations  
-- You must comply with **Discord’s Terms of Service** and **Community Guidelines**.  
-- Abuse, spamming, or other misuse of the Bot may result in **removal of access at our discretion**.  
+## 3. User Responsibilities  
+Users must follow **Discord’s Terms of Service** and **Community Guidelines**.  
+Any misuse of the Bot may result in access being revoked without prior notice.  
 
 ---
 
-## 4. Data Handling  
-The Bot collects only minimal data such as:  
-- **Discord User IDs**  
-- **Server IDs**  
-
-This data is used primarily for managing first-time user prompts and tag-related functionality.  
-For more details please refer to our privacy policy**.  
+## 4. Data Collection  
+We only collect basic information such as **Discord user IDs** (and server IDs where needed).  
+This data is used to handle first-time user notifications and provide tag features.  
+For details, see our **[Privacy Policy](./PRIVACY.md)**.  
 
 ---
 
-## 5. Changes & Termination  
-We may **modify, suspend, or discontinue** the Bot at any time without prior notice.  
-We are not responsible for any direct or indirect losses caused by downtime or changes.  
+## 5. Modifications and Termination  
+We may update, alter, or shut down the Bot at any time without warning.  
+We are not responsible for any losses or damages caused by such updates or downtime.  
 
 ---
 
-## 6. Liability Disclaimer  
-The Bot is provided **without warranties of any kind**.  
-We are not liable for damages, losses, or issues that may occur from using the Bot.  
+## 6. Limitation of Liability  
+The Bot is provided **“as is”** without any type of warranty.  
+We are not liable for direct, indirect, or incidental damages that may result from using the Bot.  
 
 ---
 
-## 7. Contact Information  
-For questions or concerns about these Terms, please reach out to us at:  
+## 7. Contact  
+For questions about these Terms, you can contact us at:  
 
 - 📧 Email: **altone733@gmail.com**  
 - 💬 Discord: [Support Server](https://discord.gg/aQhR9fr2mV)
