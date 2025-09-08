@@ -24,7 +24,7 @@ Any misuse of the Bot may result in access being revoked without prior notice.
 ## 4. Data Collection  
 We only collect basic information such as **Discord user IDs** (and server IDs where needed).  
 This data is used to handle first-time user notifications and provide tag features.  
-For details, see our **[Privacy Policy](./PRIVACY.md)**.  
+For details, refer to our privacy policy)**.  
 
 ---
 
